@@ -1,4 +1,4 @@
-1- How to run the code
+1- How to run the code:
 
 The code uses the concept of object oriented programming, it has the functions for user registration, login, SQL injection, XSS attack and a user class , customer class inherited from user class and another class for web application firewall.
 To run this code, you need python3 installed on your local host, use pip install <library name> to install needed libraries,
